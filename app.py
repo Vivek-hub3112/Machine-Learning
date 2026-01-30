@@ -1,5 +1,5 @@
 
-Open In Colab
+
 
 # Install Streamlit
 !pip install streamlit
