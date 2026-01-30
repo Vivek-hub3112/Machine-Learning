@@ -1,0 +1,1 @@
+Hello, I ,Vivek, just created an prediction app using the streamlit framework with combination of linear regression and scikit learn.It basically visually predict the genetic outcome which occurs mainly on changing certain features(sepal length,Sepal Width, Petal Width and many more).
